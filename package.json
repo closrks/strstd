@@ -1,0 +1,33 @@
+{
+  "name": "strstd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --progress --colors --watch",
+    "hot": "node server_hot.js",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/closrks/strstd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/closrks/strstd/issues"
+  },
+  "homepage": "https://github.com/closrks/strstd",
+  "devDependencies": {
+    "babel-core": "^5.1.10",
+    "babel-loader": "^5.0.0",
+    "bootstrap": "^3.3.4",
+    "css-loader": "^0.10.1",
+    "react": "^0.13.1",
+    "react-hot-loader": "^1.2.5",
+    "style-loader": "^0.10.2",
+    "webpack": "^1.8.5",
+    "webpack-dev-server": "^1.8.0"
+  }
+}
