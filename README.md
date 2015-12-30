@@ -1,8 +1,8 @@
 
 # API
 
-1. [Create a new company](#####createanewcompany)
-2. [Get a list of companies](#####getalistofcompanies)
+1. [Create a new company](#createanewcompany)
+2. [Get a list of companies](#getalistofcompanies)
 3. Get a single company
 4. Update a single company
 5. Delete a single company
